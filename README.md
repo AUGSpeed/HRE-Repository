@@ -12,6 +12,8 @@ Removed:
 - Spiff's Wasteland Clothing
 - FO4Config
 - Better Locational Damage (See Combat Balance Changes)
+- Bleak Beauty
+- Fallout Suite
 
 Added:
 
