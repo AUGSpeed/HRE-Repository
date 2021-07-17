@@ -39,6 +39,6 @@ Patched:
 Combat Balance Changes
 
 - BLD has been removed and replaced by my own personal changes. Almost every single NPC has been personally balanced by me to fit the vision of the list.
-- ALL enemies have been rebalanced, and no longer level with you at all, (Except for incredibly difficult and high-level enemies, which will still scale with you to provide some challenge at high levels)
+- ALL enemies & some friendlies have been rebalanced, and no longer level with you at all, (Except for incredibly difficult and high-level enemies, which will still scale with you to provide some challenge at high levels)
 - Rabid versions of enemies now boast incredibly fast speed, and very high attack stats, but are incredibly fragile, and will be downed quickly.
 - Large enemies (Mirelurk Queens, Behemoths, etc) have been significantly buffed. These enemies are bullet sponges, and they are meant to be. (Explosives are especially effective here, though, due to the massive size of the enemies)
