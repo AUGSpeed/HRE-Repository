@@ -1,5 +1,11 @@
 # F4EE-Patch-Notes
 
+## Version 1.2.1 Hotfix 2
+
+Removed:
+
+- Pack Attack NPC
+
 ## Version 1.2.1
 
 Updated:
