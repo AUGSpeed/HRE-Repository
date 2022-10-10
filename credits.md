@@ -1053,7 +1053,7 @@ By [perchik71](https://www.nexusmods.com/fallout4/users/113904913)
  
 ### [Modern Precombines Guide](https://diskmaster.github.io/ModernPrecombines/MANUAL) 
 
-By Starhamster/Starhammer  
+By [Starhamster/Starhammer](https://www.nexusmods.com/fallout4/users/900685)  
 
 ## Modlist Patches and Credits
 
