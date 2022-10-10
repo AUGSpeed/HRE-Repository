@@ -1,4 +1,4 @@
-# F4EE 2.0 Credits
+# HRE 2.0 Credits
 
 This is a compiled list of every single mod and its author that this modlist uses. I will also be including Social Media and Patreon links if mod authors have them linked anywhere on their Nexus profiles. I encourge all of my pervious Patrons to donate to one of these authors instead of my Patreon, which will be shut down along with the release of version 2.0. In addition, *most* of the modlist author pages have a 'Donate' button on them. This allows you to donate to authors uding PayPal. I highly recommend finding a mod that you really like and sending 5 bucks to whomever made it! This list would quite literally not exist without each and every one of these modders and their contributions to the modding community. Please also endorse as many of these mods as you can!
 
