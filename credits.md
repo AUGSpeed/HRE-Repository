@@ -1071,9 +1071,9 @@ Support Girl, p51douglas (NotShrek), mat552|
 
 ### The Wabbajack Team
 
-Developers: Halgari, erri120, Noggog, Khamûl, Lively, Luca, trawzified, Unnoen
-Admin Team: JTK, Timboman, Unnoen, Foxman
-Moderator Team: cacophany, Drazden, jdsmith, LadyZeefa, LostDragonist, Luca, Sam, Total, trawzified
+Developers: Halgari, erri120, Noggog, Khamûl, Lively, Luca, trawzified, Unnoen  
+Admin Team: JTK, Timboman, Unnoen, Foxman  
+Moderator Team: cacophany, Drazden, jdsmith, LadyZeefa, LostDragonist, Luca, Sam, Total, trawzified  
 
 ### HRE Patrons
 
