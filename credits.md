@@ -15,6 +15,8 @@ This is a compiled list of every single mod and its author that this modlist use
 [Armor](#armor)  
 [Settlements](#settlements)  
 [New Locations and Quests](#new-locations-and-quests)  
+[Gameplay](#gameplay)  
+[Roleplay Enhancements](#roleplay-enhancements)  
 [Horizon](#horizon)  
 [Horizon Patches](#horizon-patches)  
 [Tools and Guides](#tools-and-guides)  
