@@ -17,6 +17,7 @@ This is a compiled list of every single mod and its author that this modlist use
 [New Locations and Quests](#new-locations-and-quests)  
 [Horizon](#horizon)  
 [Horizon Patches](#horizon-patches)  
+[Tools and Guides](#tools-and-guides)  
 [Modlist Patches and Credits](#modlist-patches-and-credits)   
 
 ## Essential Mods
@@ -1027,7 +1028,33 @@ By [Greb751](https://www.nexusmods.com/fallout4/users/30396610)
 ### [Horizon - Animated Fishing](https://www.nexusmods.com/fallout4/mods/64238)
 
 By [benz90](https://www.nexusmods.com/fallout4/users/9844845)  
+
+## Tools and Guides
+
+### [FO4Edit](https://www.nexusmods.com/fallout4/mods/2737/) 
+
+By [ElminsterAU](https://www.nexusmods.com/fallout4/users/167469), xEdit Team  
+[Patreon](https://www.patreon.com/ElminsterAU)  
+[Ko-Fi](https://ko-fi.com/ElminsterAU)  
+[PayPal](https://www.paypal.com/paypalme/ElminsterAU)  
+[Discord](https://discord.com/invite/5t8RnNQ)  
+
+### [Pra's xEdit Scripts](https://www.nexusmods.com/fallout4/mods/28898) 
+
+By [pra](https://www.nexusmods.com/fallout4/users/577730)  
+
+### [Searge's xEdit Scripts](https://forums.nexusmods.com/index.php?/topic/5522717-fallout-4-optimization-and-performance-systems-explained/page-52#entry100828598) 
+
+By [SeargeDP](https://www.nexusmods.com/users/5780168)  
  
+### [F4 Creation Kit Fixes](https://www.nexusmods.com/fallout4/mods/51165) 
+
+By [perchik71](https://www.nexusmods.com/fallout4/users/113904913)  
+ 
+### [Modern Precombines Guide](https://diskmaster.github.io/ModernPrecombines/MANUAL) 
+
+By Starhamster/Starhammer  
+
 ## Modlist Patches and Credits
 
 ### [HRE Patches, Precombines and HUD](https://www.nexusmods.com/fallout4/mods/39996)
