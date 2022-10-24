@@ -1,4 +1,4 @@
-# HRE-Patch-Notes
+# HRE-Changelog
 
 ## Version 1.2.1 Hotfix 2
 
