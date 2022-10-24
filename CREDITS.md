@@ -347,7 +347,7 @@ By [SKK50](https://www.nexusmods.com/fallout4/users/46256407)\
 By [Spiffyskytrooper](https://www.nexusmods.com/fallout4/users/13490405)  
 [Ko-Fi](https://ko-fi.com/spiffyskytrooper)
 
-### [Bullet Counter Reload System](https://www.nexusmods.com/fallout4/mods/41178)
+### [Bullet Counted Reload System](https://www.nexusmods.com/fallout4/mods/41178)
 
 By [shavkacagarikia](https://www.nexusmods.com/fallout4/users/19761729)  
 [Patreon](https://www.patreon.com/shavkacagarikia)  
