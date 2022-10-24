@@ -1,4 +1,4 @@
-# F4EE-Patch-Notes
+# HRE-Patch-Notes
 
 ## Version 1.2.1 Hotfix 2
 
