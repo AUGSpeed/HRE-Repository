@@ -90,6 +90,10 @@ By [Boris Vorontsov](http://enbdev.com/contact_en.htm)
 
 By Ian Patterson(ianpatt), Stephen Abel(belhippo), and Brendan Borthwick(purplelunchbox)
 
+### [Shadow Boost FO4](https://www.nexusmods.com/fallout4/mods/63482)
+
+By [PK0](https://www.nexusmods.com/fallout4/users/71152253)  
+
 ## Visual Mods
 
 These mods are the ones that make your game look pretty!
