@@ -64,17 +64,17 @@ If this does not work, please update your MO2 installation. I will fix this in t
 
 After creating your character, be sure to follow these steps exactly!
 
-* **Inside the Bathroom**:
-While inside the bathroom, allow all of the messages in the top left of your screen to disappear.   
-After this is done, open your MCM menu and use 'MCM Settings Manager' to load the 'Before Vault' Configuration.  
-Now, make a save here, and WAIT for 2 minutes. Do nothing. Just stand there. If you do not do this, your game will destroy itself after you walk through the door.  
-Before you walk through the door, set your game to 'Survival' Difficulty.  
-Now Walk through the door, and go through the menus.  
-Now play through the Vault normally, until you come outside.
+* **Inside the Bathroom**:  
+- While inside the bathroom, allow all of the messages in the top left of your screen to disappear.   
+- After this is done, open your MCM menu and use 'MCM Settings Manager' to load the 'Before Vault' Configuration.  
+- Now, make a save here, and WAIT for 2 minutes. Do nothing. Just stand there. If you do not do this, your game will destroy itself after you walk through the door.  
+- Before you walk through the door, set your game to 'Survival' Difficulty.  
+- Now Walk through the door, and go through the menus.  
+- Now play through the Vault normally, until you come outside.
 * **After the Vault**:
-After exiting the Vault, use the 'MCM Settings Manager' again to load the 'After Vault' Configuration.  
-Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`.   
-Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
+- After exiting the Vault, use the 'MCM Settings Manager' again to load the 'After Vault' Configuration.  
+- Now, open your PipBoy, go to `Misc`, and `Settings`, and open the `Beantown Interiors` Holotape. Go to `Customize Options -> Other Options` and `Enable Hardcore Clutter`.   
+- Then, go to `Mod Compatibility` and `Enable Insidejobs Compatibility`.
 
 ### Step 7 (Optional):
 
