@@ -24,7 +24,7 @@ These instructions will be listed by Tabs in BethINI, please follow them in orde
 Make sure `Game` is set to `Fallout 4`.
 `Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.
 `Mod Organizer` should be set to your `F4EEInstall` directory, wherever that is.
-`INI Path` should be set to `ModOrganizer > F4EE 1.2.1`.
+`INI Path` should be set to `ModOrganizer > HRE 2.0 Beta` OR `ModOrganizer > HRE 2.0 Quality Beta`.
 * **Basic**:  
 Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).
 Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.
@@ -54,7 +54,7 @@ NOTE: If you are on Windows 11, update the MO2 Installation using the Update but
 
 Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
 
-You can also choose to install Pack Attack NPC by Greslin, which is an *amazing* AI mod that was removed from the Nexus. You might be able to grab it from the author's discord server [here](https://discord.gg/Kacy6Z5BFM), but there are NO guarantees. Then, place the archive in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons). Now, simply place this mod above `F4EE PANPC Patch` in the left pane, and enable both, and you will be good to go, with smarter enemies enabled.
+You can also choose to install Pack Attack NPC and its companion mod, Pack Attack Companion Edition by Greslin, which is are *amazing* AI mods that were removed from the Nexus. You might be able to grab it from the author's discord server [here](https://discord.gg/Kacy6Z5BFM), but there are NO guarantees. Then, place the archive in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons). Now, simply place this mod above `HRE PANPC Patch` in the left pane, and enable both, and you will be good to go, with smarter enemies enabled.
 
 ### Step 6:
 
