@@ -14,7 +14,7 @@ Download the latest ENB binaries from [the ENB website](http://enbdev.com/downlo
 
 ### Step 3:
 
-Launch BethINI from the exe found in your `F4EEInstall/tools/BethINI Standalone` folder.
+Launch BethINI from the exe found in your `HREInstall/tools/BethINI Standalone` folder.
 
 ### Step 4:
 
@@ -23,7 +23,7 @@ These instructions will be listed by Tabs in BethINI, please follow them in orde
 * **Setup**:   
 Make sure `Game` is set to `Fallout 4`.
 `Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.
-`Mod Organizer` should be set to your `F4EEInstall` directory, wherever that is.
+`Mod Organizer` should be set to your `HREInstall` directory, wherever that is.
 `INI Path` should be set to `ModOrganizer > HRE 2.0 Beta` OR `ModOrganizer > HRE 2.0 Quality Beta`.
 * **Basic**:  
 Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).
@@ -44,7 +44,7 @@ Now, hit `Save and Exit` in the bottom right.
 
 ### Step 5:
 
-Launch ModOrganizer from the exe found in your `F4EEInstall` folder.
+Launch ModOrganizer from the exe found in your `HREInstall` folder.
 
 NOTE: If you are on Windows 11, update the MO2 Installation using the Update button (It looks like a globe) in the top right of MO2.
 
