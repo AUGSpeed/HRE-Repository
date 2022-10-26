@@ -2,7 +2,7 @@
 
 ### Step 0:
 
-Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named `F4EEInstall` (Or any other name, that's just what I will refer to it as) anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the `F4EEInstall` folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
+Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named `HREInstall` (Or any other name, that's just what I will refer to it as) anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the `HREInstall` folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
 
 ### Step 1:
 
