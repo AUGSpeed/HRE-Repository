@@ -4,8 +4,14 @@
 
 ### Updated:
 
+- Horizon Weapon Patches
+- No More Fake Puddles
+- Wetness Shader Fix
+- LOST Audio Tweaks
+- Horizon Rearranged
+- Ultimate Window Overhaul Redone
+- Comprehensive Power Armor Merge
 - MO2 to Version 2.4.4
-- A bunch of other mods too
 
 ### Removed:
 
@@ -55,16 +61,9 @@
 - Beantown Interiors Horizon Patch
 - Stumble Upon Interiors Horizon Patch
 - Shadow Boost FO4
-
-### Updated:
-
-- Horizon Weapon Patches
-- No More Fake Puddles
-- Wetness Shader Fix
-- LOST Audio Tweaks
-- Horizon Rearranged
-- Ultimate Window Overhaul Redone
-- Comprehensive Power Armor Merge
+- Immersive Generic Dialogue
+- HRE Main Menu
+- Horizon - Animated Fishing
 
 ### Patched:
 
@@ -74,6 +73,8 @@
 - Removed Herobrine
 - Food is harder to make, but still not as hard as default Horizon.
 - Precombines are now Complete, and performance will now be better than ever! Hopefully no more crazy Flickering stuff too!
+- Power armor frames in Concord and Thicket Excavations have been removed.
+- Radium Inc is now properly accessible.
 
 ## Version 1.2.1 Hotfix 2
 
