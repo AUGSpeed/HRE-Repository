@@ -8,7 +8,7 @@ Author of [Immersive Generic Dialogues](https://www.nexusmods.com/fallout4/mods/
 Author of [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598?tab=description)  
 ### [Azar's Patreon](https://www.patreon.com/azar)  
 Author of [Ponytail Hairstyles](https://www.nexusmods.com/fallout4/mods/8126)  
-###[Boris Vorontsov's Patreon](https://www.patreon.com/enb)  
+### [Boris Vorontsov's Patreon](https://www.patreon.com/enb)  
 Author of [ENB](http://enbdev.com/news.html)  
 ### [BZW's Patreon](https://www.patreon.com/bazoongas_workshop)  
 Contributor to [Brotherhood of Steel Armor Overhaul](https://www.nexusmods.com/fallout4/mods/43571)  
