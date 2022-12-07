@@ -179,9 +179,9 @@ By [L00ping](https://www.nexusmods.com/fallout4/users/918859)
 By [fadingsignal](https://www.nexusmods.com/fallout4/users/2546964)  
 [All Links](https://linktr.ee/vogelsound)  
 
-### [PipBoy 4k HD - Lore accurate](https://www.nexusmods.com/fallout4/mods/23422)
+### [PipBoy 4k HD - Lore accurate](https://www.nexusmods.com/fallout4/mods/23422)  
 
-By [PipBoy900](https://www.nexusmods.com/fallout4/users/6692434)
+By [PipBoy900](https://www.nexusmods.com/fallout4/users/6692434)  
 
 ## Audio Mods
 
@@ -316,6 +316,10 @@ By [MonkatrazBri](https://www.nexusmods.com/fallout4/users/1831411)
 ### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 
 By [pauderek](https://www.nexusmods.com/fallout4/users/1739196)  
+
+### [Sleep or Save](https://www.nexusmods.com/fallout4/mods/12262)
+
+By [Loganbacca](https://www.nexusmods.com/fallout4/users/3962807)  
 
 ### [Better Console F4SE](https://www.nexusmods.com/fallout4/mods/26582)
 
@@ -847,6 +851,10 @@ These mods make it easier to see yourself as your character, and fix small narra
 
 By [TinyManticore](https://www.nexusmods.com/fallout4/users/34832910), [Dashboarderian](https://www.nexusmods.com/fallout4/users/127727953)  
  
+### [Sleep Or Save Fixes](https://www.nexusmods.com/fallout4/mods/63033)
+
+By [GoldTiger](https://www.nexusmods.com/fallout4/users/3512062)  
+ 
 ### [Journal of the Sole Survivor](https://www.nexusmods.com/fallout4/mods/13462)
 
 By [registrator2000](https://www.nexusmods.com/fallout4/users/17152929)  
@@ -980,7 +988,7 @@ By [RickTheNexus](https://www.nexusmods.com/fallout4/users/36711455)
  
 ### [Patch - Horizon](https://www.nexusmods.com/fallout4/mods/27087)
 
-I use this page for the Tales from the Commonwealth, and Settlers of the Commonwealth. They are out of date, and I update them using my patch.
+I use this page for the Tales from the Commonwealth and Settlers of the Commonwealth patches. They are out of date, and I update them using my patch.
 
 By [inkblack85](https://www.nexusmods.com/fallout4/users/33920090)  
  

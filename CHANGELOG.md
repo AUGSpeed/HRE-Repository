@@ -32,7 +32,6 @@
 - Heather Companion
 - Achievements (Redundant with Buffout 4)
 - Faster Workshop (Redundant with Buffout 4)
-- Sleep or Save (Redundant with Buffout 4)
 - Workshop Framework Horizon Patch
 - Laser Reposition Horizon Patch
 
