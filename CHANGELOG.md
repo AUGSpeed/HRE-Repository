@@ -30,6 +30,11 @@
 - Nuka-world Bottle Scenery Fix
 - Small Map Markers
 - Heather Companion
+- Achievements (Redundant with Buffout 4)
+- Faster Workshop (Redundant with Buffout 4)
+- Sleep or Save (Redundant with Buffout 4)
+- Workshop Framework Horizon Patch
+- Laser Reposition Horizon Patch
 
 ### Added:
 
@@ -64,6 +69,7 @@
 - Immersive Generic Dialogue
 - HRE Main Menu
 - Horizon - Animated Fishing
+- PipBoy 4k HD - Lore accurate
 
 ### Patched:
 

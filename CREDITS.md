@@ -179,6 +179,10 @@ By [L00ping](https://www.nexusmods.com/fallout4/users/918859)
 By [fadingsignal](https://www.nexusmods.com/fallout4/users/2546964)  
 [All Links](https://linktr.ee/vogelsound)  
 
+### [PipBoy 4k HD - Lore accurate](https://www.nexusmods.com/fallout4/mods/23422)
+
+By [PipBoy900](https://www.nexusmods.com/fallout4/users/6692434)
+
 ## Audio Mods
 
 These mods are aimed at adding new music, and adjusting the soundscape of the Commonwealth.
@@ -256,20 +260,11 @@ By [Ryan/Fudgyduff](https://www.nexusmods.com/fallout4/users/5687342)
 
 By [Karniage](https://www.nexusmods.com/fallout4/users/943507)  
 
-### [Achievements](https://www.nexusmods.com/fallout4/mods/12465)
-
-By [Expired6978](https://www.nexusmods.com/fallout4/users/2950481)  
-[Patreon](https://www.patreon.com/expired6978)  
-
 ### [Remove Fallout 4 Updates from Main Menu](https://www.nexusmods.com/fallout4/mods/32509)
 
 By [DeathclawBooty](https://www.nexusmods.com/fallout4/users/52494511)  
 
 ### [Crafting Highlight Fix](https://www.nexusmods.com/fallout4/mods/27479)
-
-By [registrator2000](https://www.nexusmods.com/fallout4/users/17152929)  
-
-### [Faster Workshop](https://www.nexusmods.com/fallout4/mods/35382)
 
 By [registrator2000](https://www.nexusmods.com/fallout4/users/17152929)  
 
@@ -321,10 +316,6 @@ By [MonkatrazBri](https://www.nexusmods.com/fallout4/users/1831411)
 ### [Automatically Lowered Weapons](https://www.nexusmods.com/fallout4/mods/20093)
 
 By [pauderek](https://www.nexusmods.com/fallout4/users/1739196)  
-
-### [Sleep or Save](https://www.nexusmods.com/fallout4/mods/12262)
-
-By [Loganbacca](https://www.nexusmods.com/fallout4/users/3962807)  
 
 ### [Better Console F4SE](https://www.nexusmods.com/fallout4/mods/26582)
 
@@ -856,10 +847,6 @@ These mods make it easier to see yourself as your character, and fix small narra
 
 By [TinyManticore](https://www.nexusmods.com/fallout4/users/34832910), [Dashboarderian](https://www.nexusmods.com/fallout4/users/127727953)  
  
-### [Sleep Or Save Fixes](https://www.nexusmods.com/fallout4/mods/63033)
-
-By [GoldTiger](https://www.nexusmods.com/fallout4/users/3512062)  
- 
 ### [Journal of the Sole Survivor](https://www.nexusmods.com/fallout4/mods/13462)
 
 By [registrator2000](https://www.nexusmods.com/fallout4/users/17152929)  
@@ -981,12 +968,6 @@ Once again, this is out of date, but I update what is necessary in my patch.
 
 By [Alientech](https://www.nexusmods.com/fallout4/users/24250854)  
  
-### [Official Sim Settlements Horizon Balance Patch](https://www.nexusmods.com/fallout4/mods/36096)
-
-I actually use this for the Workshop Framework Patch. Sim Settlements is not in the list.
-
-By [Baron](https://www.nexusmods.com/fallout4/users/5220371)  
- 
 ### [DinDisco's Modding Bedlam](https://www.nexusmods.com/fallout4/mods/41637)
 
 By [DinDisco](https://www.nexusmods.com/fallout4/users/57266812)  
@@ -999,7 +980,7 @@ By [RickTheNexus](https://www.nexusmods.com/fallout4/users/36711455)
  
 ### [Patch - Horizon](https://www.nexusmods.com/fallout4/mods/27087)
 
-I use this page for the Tales from the Commonwealth, Settlers of the Commonwealth and Laser weapons 1st person reposition patches. They are out of date, and I update them using my patch.
+I use this page for the Tales from the Commonwealth, and Settlers of the Commonwealth. They are out of date, and I update them using my patch.
 
 By [inkblack85](https://www.nexusmods.com/fallout4/users/33920090)  
  
