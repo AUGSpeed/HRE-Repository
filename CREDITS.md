@@ -419,6 +419,10 @@ By [maximluppov](https://www.nexusmods.com/fallout4/users/3457257)
 
 By [registrator2000](https://www.nexusmods.com/fallout4/users/17152929/)  
 
+### [NAC X - MCM Settings Menu with Hotkeys](https://www.nexusmods.com/fallout4/mods/65764)  
+
+By [m8r98a4f2](https://www.nexusmods.com/fallout4/users/13457320)  
+
 ## Character Enhancements
 
 These mods add more character customization options, as well as generally improve how characters look.
