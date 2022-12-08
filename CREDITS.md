@@ -17,7 +17,7 @@ This is a compiled list of every single mod and its author that this modlist use
 [New Locations and Quests](#new-locations-and-quests)  
 [Gameplay](#gameplay)  
 [Roleplay Enhancements](#roleplay-enhancements)  
-[Horizon](#horizon)  
+[Horizon](#horizon-category)  
 [Horizon Patches](#horizon-patches)  
 [Tools and Guides](#tools-and-guides)  
 [Modlist Patches and Credits](#modlist-patches-and-credits)   
@@ -890,7 +890,7 @@ By [Anbeegod](https://www.nexusmods.com/fallout4/users/32344400)
 [Patreon](https://www.patreon.com/anbeegod)  
 [Dsicord](https://discord.gg/k9W3N3q)  
 
-## Horizon
+## Horizon Category
 
 This is again, the single most important mod in this list. It adds the skill system, de-levels the world, makes loot scarce, and adds basically all of the new menus and character building opportunities that are in this list.
 
