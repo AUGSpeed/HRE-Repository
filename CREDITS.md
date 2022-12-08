@@ -894,6 +894,8 @@ By [Anbeegod](https://www.nexusmods.com/fallout4/users/32344400)
 
 This is again, the single most important mod in this list. It adds the skill system, de-levels the world, makes loot scarce, and adds basically all of the new menus and character building opportunities that are in this list.
 
+### [Horizon](https://www.nexusmods.com/fallout4/mods/17374)
+
 By [Zawinul](https://www.nexusmods.com/fallout4/users/6015119)  
 [Horizon Wiki](https://fo4horizon.fandom.com/wiki/Horizon_Wiki)  
 [Discord](https://discord.gg/gW2xdaH) NOTE: Do ***NOT*** ask any questions about this modlist in this discord! 
