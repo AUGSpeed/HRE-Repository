@@ -2,7 +2,7 @@
 
 ### Step 0:
 
-Run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named `HREInstall` (Or any other name, that's just what I will refer to it as) anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the `HREInstall` folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
+I recommend fully reinstalling Fallout 4, and cleaning the folder in between to eliminate any contamination from previous installs. Then, run Fallout 4 once from Steam. You can close the launcher when it detects your video settings. After this, create a new folder named `HREInstall` (Or any other name, that's just what I will refer to it as) anywhere outside of Program Files. I HIGHLY recoomend installing on an SSD! Then, in Wabbajack, click the `...` next to `Installation Location` and select the `HREInstall` folder you just made. Feel free to keep the `Download Location` anywhere you like, or leave it at the default.
 
 ### Step 1:
 
@@ -24,7 +24,8 @@ These instructions will be listed by Tabs in BethINI, please follow them in orde
 Make sure `Game` is set to `Fallout 4`.
 `Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.
 `Mod Organizer` should be set to your `HREInstall` directory, wherever that is.
-`INI Path` should be set to `ModOrganizer > HRE 2.0 Beta` OR `ModOrganizer > HRE 2.0 Quality Beta`.
+`INI Path` should be set to `ModOrganizer > HRE 2.0` OR `ModOrganizer > HRE 2.0 Quality`.
+To clarify, the INI files are different for each profile. You will need to configure each one individually if you plan on playing both.
 * **Basic**:  
 Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).
 Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.
@@ -35,6 +36,11 @@ You can also choose to disable tutorial messages here.
 * **Interface**:  
 You can check here if you want subtitles or not.
 * **Custom**:  
+To get better performance do this:
+Under `Section` select `General`.
+Under `Setting` select `iNumHWThreads`.
+In the text box below, change the default to double the amount of cores your CPU has. If you don't know, `8` is a good number to start with.
+For clarification, I am running on a Ryzen 3600. It has 6 cores, so I can handle 12 logical threads. I would be putting `12` into the text box.
 If you want your PipBoy Flashlight to be colored a flat white rather than whatever color your PipBoy is, then do this:
 Under `Section`, select `Pipboy`.
 Under `Setting`, select `bPipboyEffectColorOnLight`.
@@ -45,8 +51,6 @@ Now, hit `Save and Exit` in the bottom right.
 ### Step 5:
 
 Launch ModOrganizer from the exe found in your `HREInstall` folder.
-
-NOTE: If you are on Windows 11, update the MO2 Installation using the Update button (It looks like a globe) in the top right of MO2.
 
 ### Step 5.5 (Optional):
 

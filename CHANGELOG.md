@@ -69,6 +69,9 @@
 - HRE Main Menu
 - Horizon - Animated Fishing
 - PipBoy 4k HD - Lore accurate
+- NAC X - MCM Settings Menu with Hotkeys
+- See Through Scopes - MCM Settings Menu
+- NPCs Travel - MCM Settings Menu
 
 ### Patched:
 
