@@ -22,29 +22,29 @@ These instructions will be listed by Tabs in BethINI, please follow them in orde
 
 * **Setup**:   
 Make sure `Game` is set to `Fallout 4`.
-`Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.
-`Mod Organizer` should be set to your `HREInstall` directory, wherever that is.
-`INI Path` should be set to `ModOrganizer > HRE 2.0` OR `ModOrganizer > HRE 2.0 Quality`.
-To clarify, the INI files are different for each profile. You will need to configure each one individually if you plan on playing both.
+`Game Path` should be set to whatever directory your game is in, ending with `Steam/steamapps/common/Fallout 4`.  
+`Mod Organizer` should be set to your `HREInstall` directory, wherever that is.  
+`INI Path` should be set to `ModOrganizer > HRE 2.0` OR `ModOrganizer > HRE 2.0 Quality`.  
+To clarify, the INI files are different for each profile. You will need to configure each one individually if you plan on playing both.  
 * **Basic**:  
-Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).
-Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.
-Be sure to check the `Recommended Tweaks` Box as well!
+Here, set your screen's resolution is set properly, and also set your graphical preset. I recommend using BethINI's High preset (I used to recommend Ultra, but it really just hurts performance).  
+Ensure that `FPS` is set to `60`. Don't worry, we can get more in game, it just needs to be that way in the INIs.  
+Be sure to check the `Recommended Tweaks` Box as well!  
 * **General**:  
-Check the `Intro Logo` checkbox. It needs to be checked, otherwise custom main menu audio doesn't work. No idea why.
-You can also choose to disable tutorial messages here.
+Check the `Intro Logo` checkbox. It needs to be checked, otherwise custom main menu audio doesn't work. No idea why.  
+You can also choose to disable tutorial messages here.  
 * **Interface**:  
 You can check here if you want subtitles or not.
 * **Custom**:  
-To get better performance do this:
-Under `Section` select `General`.
-Under `Setting` select `iNumHWThreads`.
-In the text box below, change the default to double the amount of cores your CPU has. If you don't know, `8` is a good number to start with.
-For clarification, I am running on a Ryzen 3600. It has 6 cores, so I can handle 12 logical threads. I would be putting `12` into the text box.
-If you want your PipBoy Flashlight to be colored a flat white rather than whatever color your PipBoy is, then do this:
-Under `Section`, select `Pipboy`.
-Under `Setting`, select `bPipboyEffectColorOnLight`.
-In the text box below, change the `1` to a `0`, and then click `Save`.
+To get better performance do this:  
+Under `Section` select `General`.  
+Under `Setting` select `iNumHWThreads`.  
+In the text box below, change the default to double the amount of cores your CPU has. If you don't know, `8` is a good number to start with.  
+For clarification, I am running on a Ryzen 3600. It has 6 cores, so I can handle 12 logical threads. I would be putting `12` into the text box.  
+If you want your PipBoy Flashlight to be colored a flat white rather than whatever color your PipBoy is, then do this:  
+Under `Section`, select `Pipboy`.  
+Under `Setting`, select `bPipboyEffectColorOnLight`.  
+In the text box below, change the `1` to a `0`, and then click `Save`.  
 * **Basic**:  
 Now, hit `Save and Exit` in the bottom right.
 
@@ -58,7 +58,20 @@ Launch ModOrganizer from the exe found in your `HREInstall` folder.
 
 Now, you have a few choices before starting your game. You can follow the simple instructions at the bottom of the left pane of MO2 to decide if you want your Protagonist to talk or not. By default, it will not.
 
-You can also choose to install Pack Attack NPC and its companion mod, Pack Attack Companion Edition by Greslin, which is are *amazing* AI mods that were removed from the Nexus. You might be able to grab them from the author's discord server [here](https://discord.gg/Kacy6Z5BFM), but there are NO guarantees. Also grab PACE, from the same server. Then grab the PANPC Horizon patch [here](https://drive.google.com/file/d/1Sv6KyUby-ZcMsPcTqYxFIFalRaTVKFbR) and the PACE Horizon patch [here](https://drive.google.com/file/d/1CQ2s0aqPcvjaS-FuUFifb_qGgPC8NUaI) Then, place the archives in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons). Now, place the Horizon Patches directly above `HRE PANPC Patch` in the left pane, then place PANPC and PACE directly above their respective patch, and enable all of them, and you will be good to go with smarter enemies enabled.
+You can also choose to install Pack Attack NPC and its companion mod, Pack Attack Companion Edition by Greslin, which is are *amazing* AI mods that were removed from the Nexus.   
+You might be able to grab them from the author's discord server [here](https://discord.gg/Kacy6Z5BFM), but there are NO guarantees. Also grab PACE, from the same server.  
+Then grab the PANPC Horizon patch [here](https://drive.google.com/file/d/1Sv6KyUby-ZcMsPcTqYxFIFalRaTVKFbR) and the PACE Horizon patch [here](https://drive.google.com/file/d/1CQ2s0aqPcvjaS-FuUFifb_qGgPC8NUaI).  
+Then, place the archives in your downloads folder, and install it like you would any other mod in MO2. If you don't know how to do that, then see [Lively's Learn To Mod](https://github.com/LivelyDismay/Learn-To-Mod/tree/main/lessons).  
+Now, place the Horizon Patches directly above `HRE PANPC Patch` in the left pane, then place PANPC and PACE directly above their respective patch, and enable all of them *in a row*, and you will be good to go with smarter enemies enabled.  
+
+The order for PANPC patches in the left pane should look something like this:  
+- PANPC
+- PACE
+- PANPC Horizon Patch
+- PACE Horizon Patch
+- HRE PANPC Patch
+
+If you enable these in order from top to bottom, they will automatically be ordered properly in the plugin order pane (right side of MO2).
 
 ### Step 6:
 
@@ -87,3 +100,4 @@ To open the menu, hit `Shift+Enter` anytime in game, and in the top left, a menu
 Navigate to `FPS` and change the value to whatever you desire.  
 I recommend using a factor of whatever your screen's refresh rate is at. So, for a 120hz screen, use 60, 120, or 240.  
 To prevent screen tears, use your GPU's inbuilt profile selctor for Fallout 4 to use Fast V-Sync.  
+To configure the amount of shadows that ShadowBoostFO4 occludes, you can bring up the menu with the `F12` Key.
